@@ -1,4 +1,5 @@
-=== IFRAME Embed For Moment.me ===
+IFRAME Embed For Moment.me
+==========================
 Contributors: Moment_me
 Donate link: http://moment.me/embed
 Tags:Moment.me,images,image galery,photo,photos,free,pic,pics,pictures,instagram,facebook,twitter,google+,flicker,picasa,galery,html5,iframe,embed
@@ -9,13 +10,15 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-== Description ==
+Description
+===========
 
 Moment.me collect all images from Social events worldwide creating a True Social Coverage with a multi-point-of-view experience.
 Enrich the content of your wordpress website using the IFRAME Embed for Moment.me plugin. 
 Moment.me scans these social networks : Facebook, Instagram, twitter, Google+, Picasa, Flicker and gathers all publicly available photos
 
-=Features:=
+Features:
+=========
 
 1. Embedded Moment.me links thru this plugin will be visible on desktop and mobile browser
 2. No effect on page load time as this plugin doesn't add any CSS or JS in header section or anywhere
@@ -25,25 +28,25 @@ Moment.me scans these social networks : Facebook, Instagram, twitter, Google+, P
 [Demo](http://moment.me/embed) |
 [Plugin Information](http://moment.me/embed)
 
-== Installation ==
+Installation
+============
 
 This plugin is easy to install like other plug-ins of WordPress as you need to just follow the below mentioned steps:
 
 1. Copy Folder 'iframe-embed-for-Momentme' from the downloaded and extracted file.
-
 2. Paste it in 'wp-Content/plugins' folder on your WordPress Installation 
-
 3. Activate the plugin from Dashboard / Plugins window.
-
 4. Now Plugin is Activated, Go to the Usage section to see how to use Iframe Embed For Moment.me.
 
-== Usage ==
+Usage
+=====
 
 As we have developed this plugin to make your life easier that’s why we have made the process to use this plugin very simple. 
 To embed IFRAME code of Moment.me on a particular post, open the post to edit. Now you can see a Moment.me icon on the tool bar of Visual format of editor. Once you will click on that icon, that will ask you to enter a URL. Copy the URL (link) of the moments which you want to embed in post and paste the URL in quick edit box. Click on “Insert” to get the [mframe] tag with URL in the post. Done, now you can save or publish the post on your blog and you can see the moment embedded . Repeat this procedure to embed another moment on your blog post or page thru IFRAME embed code.
 
 
-== Screenshots ==
+Screenshots
+===========
 
 1. Insert moment button
 2. Quicktag button on Post/Page editor to insert the iframe for Moment.me 
@@ -53,18 +56,20 @@ To embed IFRAME code of Moment.me on a particular post, open the post to edit. N
 
 Visit the plugin page (http://moment.me/embed) to read more about it.
 
-== Frequently Asked Questions ==
-=Can I creat my own moments?=
+Frequently Asked Questions
+==========================
+### Can I creat my own moments?
 you can create your own moments and embed them to your site, for more information contact nir@moment.me
 
-=Can I edit my own moment?=
+### Can I edit my own moment?
 you can add and remove images from your moments by simply login in to moment.me and selecting the moment you want to edit.
 
-== Upgrade Notice ==
+Upgrade Notice
+--------------
 this is the first version
 
-== Changelog ==
-
+Changelog
+---------
 This is the first release of the plugin, so we would include the change log in the upcoming releases which will contain the new features added to this plugin in the respective versions
 
 Visit the plugin page (http://moment.me/embed) to see the changelog and release notes.
